@@ -16,6 +16,7 @@
             Historiales historiales = null;
             Ejecutable ejecutable = null;
             historiales = Historia.getInstance( );
+            System.out.println("Hola gerdoc");
             while( flag )
             {
                 Menu.principal2( );
